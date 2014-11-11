@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Teste</string>
-    <string name="hello_world">Alô Arnaldo!</string>
+    <string name="hello_world">Alô Diego!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
